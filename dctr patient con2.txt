@@ -1,0 +1,50 @@
+Conversation between a doctor and a patient about severe stomach pain
+Patient: Good evening, doctor.
+
+Doctor: Good evening. Please sit down.
+
+Patient: I’ve got a stomach ache, doctor.
+
+Doctor: I see, what do you feel?
+
+Patient: I have got sharp pain and heartburn.
+
+Doctor: How long have you had this pain and acidity?
+
+Patient: For two days now. It does not go away! I eat, and after every meal, my stomach hurts. At night the pain seems to double up.
+
+Doctor: Is the pain continuous, or does it come and go occasionally?
+
+Patient: It comes and goes. It hurts me the most after every meal. Other times, the pain isn’t that severe.
+
+Doctor: Is there any kind of food that affects you?
+
+Patient: Greasy ones and food which has got coconut milk in it.
+
+Doctor: Okay, and wherein the abdomen does it hurt? Please point it out. Does the pain travel to your chest or shoulder?
+
+Patient: It hurts in the middle. Sometimes, the pain travels across my abdomen.
+
+Doctor: You said you have heartburn besides the pain too, right?
+
+Patient: Yes, doctor. After a burp, I feel a kind of sour taste.
+
+Doctor: Have you notice any change in the consistency of your bowel movement? By any chance, have you noticed blood or a colour change?
+
+Patient: It is a bit softer and slightly greenish. I did not see any blood in my bowel movement.
+
+Doctor: Alright. I will examine your faeces to check if there is any kind of parasite. I would also like to examine your upper gastrointestinal system through x-rays and contrast.
+
+(Doctor calls for support staff and lets him know about the X-ray that needs to be done)
+
+Doctor: It is effortless. You will have to drink a thick substance, and the radiologist will see how you digest the substance. They will see the movement of your stomach. I have let the staff know about your X-Ray. Please follow him. Do you have any questions before that?
+
+Patient: With so many medical tests, I was wondering if I have an ulcer.
+
+Doctor: We need to think of that too. That is why I want that test. An x-ray of the upper intestine sometimes cannot detect an ulcer or other irritation. If the pain persists after some antibiotics, you will need an endoscopy. Any other questions?
+
+Patient: No, doctor, thank you very much.
+
+Doctor: Good. Get your x-ray done immediately since we have a vacancy now, and visit me as soon as you get your reports. Goodbye.
+
+Patient: Goodbye, doctor. I will see you

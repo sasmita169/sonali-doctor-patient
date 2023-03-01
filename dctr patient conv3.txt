@@ -1,0 +1,44 @@
+Conversation between a Doctor and a Patient
+
+
+MR. KAPOOR: Good morning, Dr. Sharma!
+
+DR. SHARMA: Good morning! What’s wrong with you?
+
+MR. KAPOOR: I have been suffering from fever since yesterday.
+
+DR. SHARMA: Do you have any other symptoms?
+
+MR. KAPOOR: I also feel headache and shivering.
+
+DR. SHARMA: Let me take your temperature. At this time the fever is 102 degree. Don’t worry, there is nothing serious. I am giving you the medicine, and you will be all right in couple of days.
+
+MR. KAPOOR: Thank you, doctor.
+
+DR. SHARMA: But get your blood tested for malaria, and come with the report tomorrow.
+
+MR. KAPOOR: OK doctor.
+
+DR. SHARMA: I shall recommend at least two days rest for you.
+
+MR. KAPOOR: Would you prepare a medical certificate for me to submit it in my office?
+
+DR. SHARMA: Oh sure…………. This is your medical certificate.
+
+MR. KAPOOR: Thank you very much. Please tell me how shall I take this medicine?
+
+DR. SHARMA: This medicine is for one day only. Take this dose as soon as you reach your home and the second at 3 pm and the third at night before sleeping.
+
+MR. KAPOOR: What should I eat doctor?
+
+DR. SHARMA: You should eat only light food. You can take milk and fresh fruit also.
+
+MR. KAPOOR: How much shall I pay you doctor?
+
+DR. SHARMA: You can pay consultation fee at the reception desk.
+
+MR. KAPOOR:  Thanks doctor.
+
+DR. SHARMA: It’s all right.
+
+MR. KAPOOR: Thank you doctor. I shall see you tomorrow with my blood report.
